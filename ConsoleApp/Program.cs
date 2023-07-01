@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ConsoleApp;
 
-SQLiteCharIssue.HowToStoreAndGetCharInSQLite();
+// SQLiteCharIssue.HowToStoreAndGetCharInSQLite();
+
+new DictionaryTest().test();
